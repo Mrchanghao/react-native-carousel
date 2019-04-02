@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Users/lnl2048/project/mobile-project/MobileLotto/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h
