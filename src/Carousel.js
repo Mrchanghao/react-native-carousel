@@ -12,6 +12,7 @@ class Carousel extends Component {
     renderItem: PropTypes.func.isRequired
   }
 
+
   state = {
     current: 0,
     next: true
